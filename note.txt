@@ -1,0 +1,8 @@
+install jest babel
+
+kenapa ketika install pake --save-dev yang artinya cuma simpan di development?
+karena typescript digunakan untuk development karena akan di compile ke js
+
+-ngga perlu nambah .ts ketika import 
+
+
